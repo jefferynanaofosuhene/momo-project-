@@ -1,2 +1,2 @@
-# momo-project-
+End of second semester project 
 C++
